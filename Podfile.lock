@@ -1,0 +1,13 @@
+PODS:
+  - RxSwift (2.3.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - RxSwift (~> 2.3)
+  - SwiftyJSON (~> 2.3)
+
+SPEC CHECKSUMS:
+  RxSwift: 829b2843e9eddc77a02cb3f5117f0d55f8f646f1
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
